@@ -1,0 +1,10 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+application {
+	mainClassName = 'ru.sibsutis.Threads'
+}
+
+run {
+	standardInput = System.in
+}

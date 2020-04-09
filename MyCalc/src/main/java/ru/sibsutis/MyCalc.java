@@ -1,6 +1,5 @@
 package ru.sibsutis;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 class MyCalc {
